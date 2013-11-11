@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="modals.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472620000000" remote="130282472620000000" Dst="1" />
+<file name="labels-badges.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472610000000" remote="130282472610000000" Dst="1" />
+<file name="bootstrap.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472570000000" remote="130282472570000000" Dst="1" />
+<file name="component-animations.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472590000000" remote="130282472590000000" Dst="1" />
+<file name="close.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472590000000" remote="130282472590000000" Dst="1" />
+<file name="utilities.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472700000000" remote="130282472700000000" Dst="1" />
+<file name="mixins.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472610000000" remote="130282472610000000" Dst="1" />
+<file name="carousel.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472580000000" remote="130282472580000000" Dst="1" />
+<file name="responsive-1200px-min.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472640000000" remote="130282472640000000" Dst="1" />
+<file name="popovers.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472630000000" remote="130282472630000000" Dst="1" />
+<file name="button-groups.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472580000000" remote="130282472580000000" Dst="1" />
+<file name="pager.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472630000000" remote="130282472630000000" Dst="1" />
+<file name="navbar.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472620000000" remote="130282472620000000" Dst="1" />
+<file name="responsive-768px-979px.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472650000000" remote="130282472650000000" Dst="1" />
+<file name="layouts.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472610000000" remote="130282472610000000" Dst="1" />
+<file name="variables.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472700000000" remote="130282472700000000" Dst="1" />
+<file name="navs.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472620000000" remote="130282472620000000" Dst="1" />
+<file name="scaffolding.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472660000000" remote="130282472660000000" Dst="1" />
+<file name="responsive-767px-max.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472650000000" remote="130282472650000000" Dst="1" />
+<file name="grid.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472600000000" remote="130282472600000000" Dst="1" />
+<file name="type.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472700000000" remote="130282472700000000" Dst="1" />
+<file name="accordion.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472560000000" remote="130282472560000000" Dst="1" />
+<file name="reset.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472640000000" remote="130282472640000000" Dst="1" />
+<file name="pagination.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472630000000" remote="130282472630000000" Dst="1" />
+<file name="alerts.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472570000000" remote="130282472570000000" Dst="1" />
+<file name="responsive-navbar.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472650000000" remote="130282472650000000" Dst="1" />
+<file name="progress-bars.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472640000000" remote="130282472640000000" Dst="1" />
+<file name="buttons.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472580000000" remote="130282472580000000" Dst="1" />
+<file name="hero-unit.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472610000000" remote="130282472610000000" Dst="1" />
+<file name="breadcrumbs.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472570000000" remote="130282472570000000" Dst="1" />
+<file name="thumbnails.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472690000000" remote="130282472690000000" Dst="1" />
+<file name="wells.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472710000000" remote="130282472710000000" Dst="1" />
+<file name="responsive-utilities.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472660000000" remote="130282472660000000" Dst="1" />
+<file name="responsive.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472660000000" remote="130282472660000000" Dst="1" />
+<file name="dropdowns.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472600000000" remote="130282472600000000" Dst="1" />
+<file name="forms.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472600000000" remote="130282472600000000" Dst="1" />
+<file name="sprites.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472670000000" remote="130282472670000000" Dst="1" />
+<file name="code.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472590000000" remote="130282472590000000" Dst="1" />
+<file name="tables.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472670000000" remote="130282472670000000" Dst="1" />
+<file name="tooltip.less" server="csukevdev.mcmaster.ca//var/www/html/joe/" local="130282472690000000" remote="130282472690000000" Dst="1" />
+</dwsync>
